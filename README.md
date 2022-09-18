@@ -1,3 +1,2 @@
 # js-objects-lab
-# week01 lab 
-# Saoirse O'Donovan
+Saoirse O'Donovan - week 01 part 01
